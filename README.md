@@ -1,3 +1,18 @@
+# Introdução
+## Primeira seção
+
+**MEU PERFIL PESSOAL**
+
+*Um pouco sobre mim, meus conhecimentos, gostos e habilidades*
+
+Quem é o Igor?
+
+1. Músico
+2. Estudante de programação (TI)
+3. Iniciante na área do marketing
+4. 27 anos, solteiro, natural de Florianópolis
+5. Apaixonado por futebol, tanto jogar quanto assistir e acompanhar meu time
+
 ## Hi there 👋
 
 <!--
